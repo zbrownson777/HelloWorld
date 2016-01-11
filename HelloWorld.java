@@ -2,7 +2,8 @@
 class HelloWorld {
 
     public static main(String[] argv) {
-        System.console.out("Hello World!");
+        // Why would we make this more specific to Jim?
+        System.console.out("Hello Jim!");
     }
 
 }
